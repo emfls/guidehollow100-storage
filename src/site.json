@@ -9,5 +9,6 @@
   "url": "https://storage.guidehollow.com/",
   "accent": "#6C82A9",
   "launchReady": true,
-  "adsReady": false
+  "adsReady": false,
+  "coupangEnabled": true
 }
