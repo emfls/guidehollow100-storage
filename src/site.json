@@ -3,12 +3,13 @@
   "short": "수납·정리",
   "section": "수납·정리",
   "slug": "storage",
-  "hero": "생활공간을 안전하게 정리하고 물건을 쉽게 찾는 방법입니다.",
-  "description": "수납 가구 전도 위험과 방별 수납 계획을 안전하게 점검하는 실용 가이드",
-  "pageTitle": "수납·정리 사용·문제 해결 가이드 | GuideHollow",
+  "hero": "중복 파일 찾기",
+  "description": "선택한 파일을 기기에서 SHA-256으로 비교합니다. 파일을 업로드하거나 삭제하지 않습니다.",
+  "pageTitle": "중복 파일 찾기 | GuideHollow",
   "url": "https://storage.guidehollow.com/",
   "accent": "#6C82A9",
   "launchReady": true,
   "adsReady": false,
-  "coupangEnabled": true
+  "coupangEnabled": true,
+  "utilityEnabled": true
 }
